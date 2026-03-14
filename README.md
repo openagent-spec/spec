@@ -1,7 +1,7 @@
 # OpenAgent Spec
 
 <p align="center">
-  <img src="logo.png" width="128" alt="OpenAgent" />
+  <img src="https://openagent.vercel.app/logo.png" width="128" alt="OpenAgent" />
 </p>
 
 <p align="center">
