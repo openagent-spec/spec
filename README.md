@@ -1,5 +1,23 @@
 # OpenAgent Spec
 
+<p align="center">
+  <img src="logo.png" width="128" alt="OpenAgent" />
+</p>
+
+<p align="center">
+  <strong>Universal manifest format for AI agents.</strong>
+</p>
+
+<p align="center">
+  <a href="https://openagent.vercel.app">Website</a> ·
+  <a href="SPEC.md">Spec</a> ·
+  <a href="https://github.com/openagent-spec/registry">Registry</a> ·
+  <a href="https://github.com/openagent-spec/sdk-go">Go SDK</a> ·
+  <a href="https://github.com/openagent-spec/sdk-js">JS SDK</a>
+</p>
+
+---
+
 Universal manifest format for AI agents.
 
 ## What is this?
