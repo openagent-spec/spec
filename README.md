@@ -1,7 +1,7 @@
 # OpenAgent Spec
 
 <p align="center">
-  <img src="https://openagent.vercel.app/logo.png" width="128" alt="OpenAgent" />
+  <img src="https://openagent.wencai.app/logo.png" width="128" alt="OpenAgent" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://openagent.vercel.app">Website</a> ·
+  <a href="https://openagent.wencai.app">Website</a> ·
   <a href="SPEC.md">Spec</a> ·
   <a href="https://github.com/openagent-spec/registry">Registry</a> ·
   <a href="https://github.com/openagent-spec/sdk-go">Go SDK</a> ·
